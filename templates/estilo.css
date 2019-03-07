@@ -1,0 +1,16 @@
+input{
+height: 50px;
+width:100px;
+}
+.fondo{
+background-color: rgb(238, 238, 238);
+text-aling:center;
+padding-top: 100px;
+}
+.contenedor{
+margin-top:80px;
+margin-left:200px;
+background-color: rgb(218, 218, 218);
+ width: 800px;
+ height: 600px;
+}
